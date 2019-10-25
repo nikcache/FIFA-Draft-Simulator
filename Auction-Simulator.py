@@ -3,6 +3,8 @@
 # COM313 - Algorithmic Game Theory
 # Mid-term
 
+#Code is very inefficient - only made for purpose of the Class
+
 
 #Importing Modules
 from graphics import *
